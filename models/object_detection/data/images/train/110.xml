@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>110.PNG</filename>
+	<path>C:\Users\Pooja Manjre\Desktop\Detecting Drowsiness in Drivers\windows_v1.8.0\images\110.PNG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>557</width>
+		<height>857</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Half Asleep</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>96</xmin>
+			<ymin>247</ymin>
+			<xmax>462</xmax>
+			<ymax>389</ymax>
+		</bndbox>
+	</object>
+</annotation>

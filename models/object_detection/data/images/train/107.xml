@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>107.PNG</filename>
+	<path>C:\Users\Pooja Manjre\Desktop\Detecting Drowsiness in Drivers\windows_v1.8.0\images\107.PNG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>513</width>
+		<height>618</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Not Sleeping</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>143</xmin>
+			<ymin>171</ymin>
+			<xmax>379</xmax>
+			<ymax>266</ymax>
+		</bndbox>
+	</object>
+</annotation>
